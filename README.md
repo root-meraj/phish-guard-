@@ -49,7 +49,7 @@ No installation or server required. It runs entirely in the browser.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/phishguard.git
+git clone https://github.com/root-meraj/phish-guard-.git
 
 # Open in browser
 cd phishguard
